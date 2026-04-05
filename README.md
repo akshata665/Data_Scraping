@@ -1,4 +1,4 @@
-# GutBut AI Content Intelligence Pipeline
+#  AI Content SCRAPING Intelligence Pipeline
 
 > **"A production-grade multi-source content ingestion and trust scoring pipeline designed for AI-driven healthcare applications. Built to ensure only reliable, recent, and medically sound content enters downstream AI systems."**
 
