@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ML / Data files
+models/
+checkpoints/
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+
+# Data scraping outputs
+scraped_data/
+output/
+downloads/
+temp/
+cache/
+
+# API secrets / credentials
+secrets.json
+credentials.json
+token.json
+
+# Node modules (if frontend exists)
+node_modules/
+
+# Streamlit / FastAPI cache
+.streamlit/
+.fastapi/
+
+# Misc
+*.sqlite3
+*.db

@@ -1,0 +1,27 @@
+{
+  "pipeline_version": "v1.0",
+  "report_generated_at": "2025-08-15T10:36:00+00:00",
+  "elapsed_seconds": 18.42,
+  "total_sources_scraped": 9,
+  "successful": 9,
+  "failed": 0,
+  "fallback_used": 1,
+  "sources_with_abuse_flags": 3,
+  "average_trust_score": 0.7214,
+  "average_confidence_score": 0.856,
+  "min_trust_score": 0.512,
+  "max_trust_score": 0.921,
+  "trust_tier_distribution": {
+    "Verified High Trust": 3,
+    "Moderate Trust": 4,
+    "Low Trust — Review Recommended": 2
+  },
+  "average_trust_by_source_type": {
+    "pubmed": 0.871,
+    "blog": 0.703,
+    "youtube": 0.591
+  },
+  "best_performing_source_type": "pubmed",
+  "unique_domains": 7,
+  "source_diversity_score": 0.78
+}

@@ -1,0 +1,111 @@
+[
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38234567/",
+    "source_type": "pubmed",
+    "source_title": "The gut microbiome modulates brain function and behavior through the gut-brain axis",
+    "author": "Chen A; Kumar R; Williams S",
+    "journal": "Nature Reviews Neuroscience",
+    "pmid": "38234567",
+    "published_date": "2024-02-01",
+    "ingestion_timestamp": "2025-08-15T10:32:14+00:00",
+    "language": "en",
+    "region": "United States / Global",
+    "topic_tags": ["gut_health", "mental_health", "immunity"],
+    "trust_score": 0.876,
+    "trust_tier": "Verified High Trust",
+    "confidence_score": 0.92,
+    "score_breakdown": {
+      "author_credibility": {"score": 0.90, "weight": 0.30, "weighted": 0.27},
+      "citation_count":     {"score": 0.75, "weight": 0.20, "weighted": 0.15},
+      "domain_authority":   {"score": 1.00, "weight": 0.20, "weighted": 0.20},
+      "recency":            {"score": 1.00, "weight": 0.20, "weighted": 0.20},
+      "medical_disclaimer": {"score": 0.00, "weight": 0.10, "weighted": 0.00}
+    },
+    "score_reasoning": [
+      "PubMed source — author associated with peer-reviewed publication.",
+      "Article has 12 citations — moderately referenced.",
+      "PubMed source automatically receives maximum domain authority baseline.",
+      "Content published within the last 6 months (195 days ago) — full recency score applied.",
+      "No medical disclaimer detected — disclaimer component penalized; healthcare safety flag raised."
+    ],
+    "abuse_flags": ["no_medical_disclaimer"],
+    "content_chunks": [
+      "The gut microbiome modulates brain function and behavior through the gut-brain axis. Recent studies demonstrate bidirectional communication between gut bacteria and the central nervous system...",
+      "Probiotic interventions have shown promising results in reducing anxiety and depression markers in randomized controlled trials with healthy adult populations..."
+    ],
+    "processing_status": "success",
+    "pipeline_version": "v1.0"
+  },
+  {
+    "source_url": "https://www.healthline.com/nutrition/gut-microbiome-and-health",
+    "source_type": "blog",
+    "source_title": "The Gut Microbiome: How It Affects Your Whole Body",
+    "author": "Rachael Link, MS, RD",
+    "published_date": "2023-10-12",
+    "ingestion_timestamp": "2025-08-15T10:34:02+00:00",
+    "language": "en",
+    "region": "United States / Global",
+    "topic_tags": ["gut_health", "nutrition", "immunity"],
+    "trust_score": 0.712,
+    "trust_tier": "Moderate Trust",
+    "confidence_score": 0.88,
+    "score_breakdown": {
+      "author_credibility": {"score": 0.90, "weight": 0.30, "weighted": 0.27},
+      "citation_count":     {"score": 0.54, "weight": 0.20, "weighted": 0.108},
+      "domain_authority":   {"score": 0.95, "weight": 0.20, "weighted": 0.19},
+      "recency":            {"score": 0.65, "weight": 0.20, "weighted": 0.13},
+      "medical_disclaimer": {"score": 1.00, "weight": 0.10, "weighted": 0.10}
+    },
+    "score_reasoning": [
+      "Author credentials contain recognized medical designation — high credibility assigned.",
+      "Blog source references 7 external sources.",
+      "Domain 'healthline.com' identified as high-authority medical/academic platform.",
+      "Content is 1–2 years old (672 days ago) — moderate recency score.",
+      "Medical disclaimer detected in content — compliance signal present."
+    ],
+    "abuse_flags": [],
+    "content_chunks": [
+      "Your gut microbiome consists of trillions of microorganisms that live in your digestive tract. These bacteria, fungi, and viruses play a key role in your overall health..."
+    ],
+    "processing_status": "success",
+    "pipeline_version": "v1.0"
+  },
+  {
+    "source_url": "https://www.youtube.com/watch?v=n3EN9F8oBR8",
+    "source_type": "youtube",
+    "source_title": "The Science of the Gut-Brain Connection | Dr. Andrew Huberman",
+    "author": "Huberman Lab",
+    "video_id": "n3EN9F8oBR8",
+    "published_date": "2024-01-08T14:00:00+00:00",
+    "ingestion_timestamp": "2025-08-15T10:35:47+00:00",
+    "language": "en",
+    "region": "United States / Global",
+    "topic_tags": ["gut_health", "mental_health"],
+    "view_count": 2840000,
+    "like_count": 87400,
+    "transcript_available": true,
+    "trust_score": 0.618,
+    "trust_tier": "Low Trust — Review Recommended",
+    "confidence_score": 0.80,
+    "score_breakdown": {
+      "author_credibility": {"score": 0.50, "weight": 0.30, "weighted": 0.15},
+      "citation_count":     {"score": 0.40, "weight": 0.20, "weighted": 0.08},
+      "domain_authority":   {"score": 0.95, "weight": 0.20, "weighted": 0.19},
+      "recency":            {"score": 1.00, "weight": 0.20, "weighted": 0.20},
+      "medical_disclaimer": {"score": 0.00, "weight": 0.10, "weighted": 0.00}
+    },
+    "score_reasoning": [
+      "Named author found but no verified medical credentials detected.",
+      "YouTube source — citation scoring not applicable; applying neutral baseline.",
+      "Domain 'youtube.com' identified as high-authority medical/academic platform.",
+      "Content published within the last 6 months (219 days ago) — full recency score applied.",
+      "No medical disclaimer detected — disclaimer component penalized; healthcare safety flag raised."
+    ],
+    "abuse_flags": ["no_medical_disclaimer"],
+    "content_chunks": [
+      "Today we're going to discuss the gut-brain axis, which is the bidirectional communication system between the enteric nervous system and the central nervous system..."
+    ],
+    "processing_status": "success",
+    "pipeline_version": "v1.0"
+  }
+]
